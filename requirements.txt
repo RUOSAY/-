@@ -1,0 +1,17 @@
+jieba
+wordcloud
+imageio
+networkx
+matplotlib
+pandas
+numpy
+scikit-learn
+pyLDAvis
+openpyxl
+streamlit
+python-docx
+xlrd
+snownlp
+scipy
+plotly
+kaleido
